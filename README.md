@@ -5,12 +5,12 @@
 En praktisk utbildning i workshop-form där du som Azure DevOps -ansvarig lär dig att installera, konfigurera och administrera Azure DevOps Server.  
 
 Utbildningen är en två dagars ”hands-on” utbildning, du kommer själv att få genomföra installationen i en lab-miljö. Workshopen omfattar:  
-* strategier vid installation  
-* installation av SQL Server 2016/2018/2019  
-* installation och konfigurering av Azure DevOps  
+* Strategier vid installation  
+* Installation av SQL Server 2016/2018/2019  
+* Installation och konfigurering av Azure DevOps  
 * Administration av Azure DevOps. 
 
-***Contenst*** 
+***Contents*** 
 
 * Introduktion 
 * Översikt Azure DevOps 
