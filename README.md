@@ -1,6 +1,6 @@
-**Azure DevOps Administration** 
+# Azure DevOps Administration # 
 
-***Decription*** 
+## Description ## 
 
 En praktisk utbildning i workshop-form där du som Azure DevOps -ansvarig lär dig att installera, konfigurera och administrera Azure DevOps Server.  
 
@@ -10,7 +10,7 @@ Utbildningen är en två dagars ”hands-on” utbildning, du kommer själv att 
 * Installation och konfigurering av Azure DevOps  
 * Administration av Azure DevOps. 
 
-***Contents*** 
+## Contents ##
 
 * Introduktion 
 * Översikt Azure DevOps 
