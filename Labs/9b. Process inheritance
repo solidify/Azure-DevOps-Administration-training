@@ -1,0 +1,61 @@
+# Process templates
+
+In this lab you will as a Azure DevOps administrator create and modify an inherited process using the Azure DevOps Web Pportal admin interface.
+
+# Getting ready
+
+Log on to the AT machine as **Admisnitrator** with password **P2ssw0rd**.
+
+#
+
+# Exercise 1: Creating an inherited process
+
+| Goal | In this exercise you will learn how create a new inherited process. |
+| --- | --- |
+
+| Step | Instructions |
+| --- | --- |
+| 1 Open process settings |
+1.
+1.Choose the ![](data:image/*;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAIAAABL1vtsAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEdSURBVDhPY/hPMRj8RqStvAdl4QX4jLCdcd951v1VR29D+TgAFiPmHbwdv+y++VQEathyFyqHDaAYUbPpruNMFM0QZDcDZErH9rtZq+/5zr9vPu0+VAMYIIzwnIvQ4zL7fsqKe81b7y4+dAcq/f8/XBaIoEJgADUiecU9oETn9jsrjt4+eRm75wkYgSmBCeD60VQONyOK1t1zm0OZERBQsv6u3/z7SSvula2/173j7vyDdzadvH3s4i2ILFFGAEH4IoQ6OLKcdh851VhNewBVDQboRgCB62yEakwETL7rT6AkHCxGbD5522rafSDZtu1OwAIU/YEL7h++gJ7wsBgBBNP33blwDRoEe89CzQLmfbggMsBuBElgMBjx/z8AYssMpIQA+ZcAAAAASUVORK5CYII=) Azure DevOps logo to open Projects.
+2. Choose Admin settings.
+3. Choose Process.
+ |
+| 2 Create an inherited process |
+1. From the Process page, open the … context menu of the process you&#39;ll use to create an inherited process, and then choose Create inherited process.
+2. Enter a name for your process and optionally a description.
+3. Click &quot;Create process&quot; button
+ |
+
+| REVIEW | In this task you have created a new inherited process. |
+| --- | --- |
+
+# Exercise 2: Adding a new field to a work item
+
+| Goal | In this lab you will learn how to add a new field to a work item |
+| --- | --- |
+
+| Step | Instructions |
+| --- | --- |
+| 1 Select WIT to customize | From the Process page of the newly created inherited process, choose the work item type you want to add the custom field to  |
+| 2 Add field |
+With the WIT selected, choose the ![](data:image/*;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAATCAYAAADVjYA3AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGmSURBVFhH7ZfhbYMwEEY7CJtkEgZgA+ZgAAZAjIHEGAxD9YCvul4x2BDUH/GTLIM523cvJlG+xnGcc0tri7RMPFnaBbK0C0RLK4pirqpq7vt+6bn/VJJOGsKQRf/JJEmDKyfs9XrNdV1vdyvTNC3jT8C65Nl13dIPw7A92Yd48tmjLMs/839JY4Ojphj1dvwIFWE3f0oab4H/gM64Le0MHxMrjWKspKekNU2ztBTeIo3eN2Gvwd/voaQ4ASrISyMxv58XQLwKoKcgC7F+DfWg72Sa3dtKo1cM6/+7NCCeayvNXgNJIphxiWGMGEmk3/tB8qKVn5fMXMX5/CSJ3t6LXWlH+JiYOTYpkiV5K8qeADU901wKlDiN7xGSxpjfQxK1hxcL3J9KO2qKUW/Hj1BSQomocKSFvrwplueK1VxfnDiSZsctVprP41RaDDGSPF6ahEkEz1jXxggJUjE6qSEBIWmsE8pd+fk8NOeWNL1GbdtuI3F4aYAESQP/ivrCeQ6+ME9IGjCu9e2aNj+bBx/OrZPGIvlv1ErSScusZGkX+JGWW0ob529jTE0tGDrgaQAAAABJRU5ErkJggg==) New field.
+ |
+| 3 Define field | 1. In the &quot;Add a field to …&quot; window, choose the Definition tab.2. Select the &quot;Create a field&quot; option.3. Choose a name and type for your field4. (Optionally) Look through the Options and Layout tabs and make any desired changes there. |
+| 4 Save changes | Click on the &quot;Add field&quot; button.The field is now available in all projects based on this inherited process. |
+
+| REVIEW | In this task you have learned how add a new field to a work item |
+| --- | --- |
+
+# Exercise 3: Review further customization options
+
+| Goal | In this lab you will familiarize yourself with more customization options for an inheritance processes and what cannot be customized. |
+| --- | --- |
+
+| Step | Instructions |
+| --- | --- |
+| 1 Open MS docs | Open this link in any browser:[https://docs.microsoft.com/en-us/azure/devops/organizations/settings/work/inheritance-process-model?view=azure-devops-2019&amp;tabs=agile-process#field-customizations](https://docs.microsoft.com/en-us/azure/devops/organizations/settings/work/inheritance-process-model?view=azure-devops-2019&amp;tabs=agile-process#field-customizations) |
+| 2 Read | Pay special attention to the &quot;What you can&#39;t customize&quot; sections. These things are often customizable in the (legacy) XML based process templates... |
+
+| REVIEW | In this task you have familiarized yourself with more customization options for inheritance processes and what cannot be customized |
+| --- | --- |
