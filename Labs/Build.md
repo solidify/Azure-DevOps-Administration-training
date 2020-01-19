@@ -105,3 +105,14 @@ In this set of exercises you will add a local build service account, install and
 ![](img/build/new-release-pipeline-6.png)
 
 1. Configure the task accordingly:
+![](img/build/new-release-pipeline-7.png)
+
+1. Save the release pipeline definition and create a new release from this definition by clicking *Release > Create release*.
+![](img/build/new-release-pipeline-8.png)
+
+1. Monitor the progress of the deployment.
+![](img/build/new-release-pipeline-9.png)
+
+1. Access the logs from each deployment task.
+![](img/build/new-release-pipeline-10.png)
+
