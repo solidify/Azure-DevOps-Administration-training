@@ -1,5 +1,5 @@
 # Azure Pipelines Setup and Administration
-In this set of exercises you will add a local build service account, install and configure a new build agent and create a build pipeline to verify the setup.
+In this set of exercises you will add a local build service account, install and configure a new build agent and create a build pipeline to verify the setup. Then you will add an agent as part of a deployment pool and create a release definition that use this pool to deploy to target hosts.
 
 ## Prerequisites
 (none?)
